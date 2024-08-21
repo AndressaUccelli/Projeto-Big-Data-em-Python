@@ -1,2 +1,2 @@
 # Projeto-Big-Data-em-Python
-Projeto para a faculdade.
+Projeto extencionista para a faculdade, com um relatório completo e planos de melhora para um comércio existente.
